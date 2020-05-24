@@ -11,5 +11,5 @@ We present a methodology for the classification of fauna images, which will help
 <a href="https://www.kaggle.com/alessiocorrado99/animals10">Animal-10 dataset</a>, which contains around 26179 hand-picked images of animals such as Butterfly, Cat, Chicken, Cow, Dog, Elephant, Horse, Sheep, Spyder, and Squirrel. Image count for each category varies from 2000 to 5000 images. Made available open-source through Kaggle
 
 ## Contact
-Read the complete article on <a href="https://medium.com/@kavishsanghvi">Medium</a><br>
+Read the complete article on <a href="https://medium.com/@kavishsanghvi/fauna-image-classification-using-convolutional-neural-network-30df9e25a010">Medium</a><br>
 <a href="mailto:info@kavishsanghvi.tech">Email</a> | <a href="https://www.linkedin.com/in/kavishsanghvi">LinkedIn</a> | <a href="https://kavishsanghvi.tech">Website</a> | <a href="https://www.medium.com/@kavishsanghvi">Medium</a> | <a href="https://twitter.com/kavishsanghvi25">Twitter</a> | <a href="https://www.facebook.com/kavish.sanghvi.5">Facebook</a> | <a href="https://www.instagram.com/kavishsanghvi96">Instagram</a>
