@@ -12,4 +12,4 @@ We present a methodology for the classification of fauna images, which will help
 
 ## Contact
 Read the complete article on <a href="https://medium.com/@kavishsanghvi/fauna-image-classification-using-convolutional-neural-network-30df9e25a010">Medium</a><br>
-<a href="mailto:info@kavishsanghvi.tech">Email</a> | <a href="https://www.linkedin.com/in/kavishsanghvi">LinkedIn</a> | <a href="https://kavishsanghvi.tech">Website</a> | <a href="https://www.medium.com/@kavishsanghvi">Medium</a> | <a href="https://twitter.com/kavishsanghvi25">Twitter</a> | <a href="https://www.facebook.com/kavish.sanghvi.5">Facebook</a> | <a href="https://www.instagram.com/kavishsanghvi96">Instagram</a>
+<a href="mailto:sanghvi_kavish@yahoo.in">Email</a> | <a href="https://www.linkedin.com/in/kavishsanghvi">LinkedIn</a> | <a href="https://kavishsanghvi.github.io">Website</a> | <a href="https://www.medium.com/@kavishsanghvi">Medium</a> | <a href="https://kavishsanghviblog.wordpress.com">Blog</a> | <a href="https://twitter.com/kavishsanghvi25">Twitter</a> | <a href="https://www.facebook.com/kavish.sanghvi.5">Facebook</a> | <a href="https://www.instagram.com/kavishsanghvi96">Instagram</a>
